@@ -242,8 +242,8 @@ exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
 
 # Theme colors
-client.focused #56737a #1e1e20 #56737a #56737a #56737a
-client.focused_inactive #56737a #1e1e20 #56737a #2c5159 #2c5159
+client.focused #fg #fg #fg #fg #fg
+client.focused_inactive #fg #fg #fg #fg #fg
 client.unfocused #56737a #1e1e20 #56737a #2c5159 #2c5159
 client.urgent #56737a #1e1e20 #56737a #2c5159 #2c5159
 client.placeholder #56737a #1e1e20 #56737a #2c5159 #2c5159

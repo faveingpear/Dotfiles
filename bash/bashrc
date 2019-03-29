@@ -124,3 +124,4 @@ fi
 # Custom bash prompt via kirsle.net/wizards/ps1.html
 export PS1="\[$(tput bold)\]\[$(tput setaf 1)\][\[$(tput setaf 6)\]\u\[$(tput setaf 4)\]@\[$(tput setaf 1)\]\t\[$(tput setaf 1)\]]\[$(tput setaf 6)\]-->\[$(tput sgr0)\]"
 clear
+cal

@@ -89,6 +89,7 @@ bindsym $mod+s exec steam
 bindsym $mod+m exec mumble
 bindsym $mod+f exec termite -e nnn
 bindsym $mod+n exec termite -e newsboat
+#bindsym $mod+shift+ exec termite -e youtube-viewer
 bindsym $mod+Shift+i exec termite -e "vim .config/i3/config"
 bindsym $mod+Shift+d exec "surf https://duckduckgo.com"
 bindsym $mod+Shift+s exec "surf https://suckless.org"

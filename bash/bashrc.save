@@ -121,9 +121,7 @@ fi
 # ( ) # Hide shell job control messages.
 (cat ~/.cache/wal/sequences &)
 
-. "${HOME}/.cache/wal/colors.sh"
 
-#alias dmen='dmenu_run -nb "$color0" -nf "$color15" -sb "$color1" -sf "$color15"'
 
 # Custom bash prompt via kirsle.net/wizards/ps1.html
 export PS1="\[$(tput bold)\]\[$(tput setaf 1)\][\[$(tput setaf 6)\]\u\[$(tput setaf 4)\]@\[$(tput setaf 1)\]\t\[$(tput setaf 1)\]]\[$(tput setaf 6)\]-->\[$(tput sgr0)\]"
